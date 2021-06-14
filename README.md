@@ -26,8 +26,5 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Clone o repositório
 - Inicie seu app com `flutter run`
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
