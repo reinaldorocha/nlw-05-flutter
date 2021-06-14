@@ -5,9 +5,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="DevQuiz" src=".github/devquiz.png" width="100%">
-</p>
 
 ## ✨ Tecnologias
 
