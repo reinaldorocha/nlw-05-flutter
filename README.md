@@ -1,3 +1,4 @@
+![capa](https://user-images.githubusercontent.com/38896311/122054933-82fc8680-cdbe-11eb-861e-46b2c921b2ef.png)
 
 
 ## ✨ Tecnologias
