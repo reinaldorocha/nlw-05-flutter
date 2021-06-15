@@ -2,7 +2,7 @@
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante a NLW 5 com as seguintes tecnologias:
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
